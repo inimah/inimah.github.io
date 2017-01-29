@@ -10,8 +10,8 @@ Road of yellow bricks has led Dorothy to the Emerald city, where she sought a he
 
 The story vs. *_Me_*
 
-As you may have checked [here](https://inimah.github.io/about/), I am one of those people who are -doing- aiming for a PhD. 
-Why a PhD? _Honestly_, I don't really know the exact answer of this question. But mine is probably just because I _enjoy_ it. _Simple_. Do what you love. Love what you do. And yes, exactly I love -studying- learning things.
+As you may have checked [here](https://inimah.github.io/about/), I am one of those people who are --doing-- aiming for a PhD. 
+Why a PhD? _Honestly_, I don't really know the exact answer of this question. But mine is probably just because I _enjoy_ it. _Simple_. Do what you love. Love what you do. And yes, exactly I love --studying-- learning things.
 
 What a PhD actually is?
 
