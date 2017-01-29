@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 A PhD candidate in Data Mining, TU Eindhoven, The Netherlands.
+
 Interested in: Deep Neural Networks, Representation learning, Transfer learning, Unstructured data learning, Natural Language Processing
 
 
