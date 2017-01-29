@@ -22,7 +22,8 @@ _Honestly_, I don't really know the exact answer of this question. But mine is p
 
 This [Illustration guide of a PhD](http://matt.might.net/articles/phd-school-in-pictures/) may provide great visual explanation than words.
 
-**_So, you are those genius people who try to solve every single problem in the world?_**
+**_So, you are one of those geniuses who try to solve every single problem in the world?_**
 
-_NOPE_
+_NOPE_.
+
 Sadly, we want to. But PhD guys (and ladies - ahem) is not the smartest - the most brilliant people in the world. No, you don't need to be THE SMARTEST student to do a PhD. Although a portion of smart can help your PhD life.
