@@ -12,12 +12,15 @@ The story vs **_Me_**
 
 As you may have checked [here](https://inimah.github.io/about/), I am one of those people who are ~~doing~~ aiming for a PhD. 
 
-_Why a PhD?_ 
+**_Why a PhD?_**
+
 _Honestly_, I don't really know the exact answer of this question. But mine is probably just because I _enjoy_ it. _Simple_. Do what you love. Love what you do. And yes, exactly I love ~~studying~~ learning things.
 
-_What a PhD actually is?_
-Thi [Illustration guide of a PhD](http://matt.might.net/articles/phd-school-in-pictures/) may provide great visual explanation than words.
+**_What a PhD actually is?_**
 
-_So, you are those genius people who try to solve every single problem in the world?_
+This [Illustration guide of a PhD](http://matt.might.net/articles/phd-school-in-pictures/) may provide great visual explanation than words.
+
+**_So, you are those genius people who try to solve every single problem in the world?_**
+
 _NOPE_
-Sadly, we want to. But PhD guys (and ladies) is not the smartest - the most brilliant people in the world. No, you don't need to be THE SMARTEST student to do a PhD. Although a portion of smart can help your PhD life.
+Sadly, we want to. But PhD guys (and ladies - ahem) is not the smartest - the most brilliant people in the world. No, you don't need to be THE SMARTEST student to do a PhD. Although a portion of smart can help your PhD life.
