@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A PhD candidate in Data Mining, TU Eindhoven, The Netherlands. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[i.nimah@tue.nl](mailto:i.nimah@tue.nl)
