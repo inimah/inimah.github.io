@@ -20,7 +20,7 @@ _Honestly_, I don't really know the exact answer of this question. But mine is p
 
 **_What a PhD actually is?_**
 
-This [Illustration guide of a PhD](http://matt.might.net/articles/phd-school-in-pictures/) may provide great visual explanation than words.
+This [Illustration guide of a PhD](http://matt.might.net/articles/phd-school-in-pictures/) or this [phdcomics](http://www.phdcomics.com/comics/archive.php?comicid=1056) may provide greater visual explanation than words.
 
 **_So, you are one of those geniuses who try to solve every single problem in the world?_**
 
