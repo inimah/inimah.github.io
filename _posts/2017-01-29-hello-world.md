@@ -16,7 +16,7 @@ As you may have checked [here](https://inimah.github.io/about/), I am one of tho
 
 **_Why a PhD?_**
 
-_Honestly_, I don't really know the exact answer of this question. But mine is probably just because I _enjoy_ it. _Simple_. Do what you love. Love what you do. And yes, exactly I love ~~studying~~ learning things.
+_Honestly_, I don't really know the exact answer of this question. But mine is probably just because I _enjoy_ it. I love ~~studying~~ learning things. _Simple_. Do what you love. Love what you do. 
 
 **_What a PhD actually is?_**
 
