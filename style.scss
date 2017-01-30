@@ -14,12 +14,12 @@
 /**************/
 
 html {
-  font-size: 75%;
+  *font-size: small;
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  font: 14 $helvetica, $arial, $clean, $sans-serif;
   color: $darkGray;
 }
 
