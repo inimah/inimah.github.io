@@ -26,7 +26,7 @@ This [Illustration guide of a PhD](http://matt.might.net/articles/phd-school-in-
 
 _NOPE_.
 
-Sadly, we want to. But PhD guys (and ladies - ahem) is not the smartest - the most brilliant people in the world. No, you don't need to be the SMARTEST student to do a PhD. Although a portion of intelligence can help your PhD life. We, (at least - I), are those incurably curiousers who seek the _ANSWERs_ for our own _QUESTIONs_
+Sadly, we want to (esp. if you aim to be a noble prize winner). But PhD guys (and ladies - ahem) is not the most brilliant people in the world. No, you don't need to be the SMARTEST student to do a PhD. Although a portion of intelligence can help your PhD life. We, (at least - I), are those incurably curiousers who seek the _ANSWERs_ for our own _QUESTIONs_. Being optimistic - at some point (dusts in desert - or drop of water in ocean), our findings might create its unique contribution to the world.
 
 So, back to the story - Dorothy wants to know how to return home (the QUESTION), and at the end she found the ANSWER is her shoes.
 **_Envious_**. Like Dorothy, I wish to have **BRAIN**, **HEART**, and **COURAGE**, Dorothy's 3 best friends, for perseveringly finding the core problem to the edge of human knowledge boundary, and for surviving the failures when trying to push it further from the boundary.
