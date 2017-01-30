@@ -26,12 +26,12 @@ This [Illustration guide of a PhD](http://matt.might.net/articles/phd-school-in-
 
 _NOPE_.
 
-Sadly, we want to. But PhD guys (and ladies - ahem) is not the smartest - the most brilliant people in the world. No, you don't need to be THE SMARTEST student to do a PhD. Although a portion of smart can help your PhD life. We, (at least - I), are those incurably curiousers who seek the _ANSWERs_ for our own _QUESTIONs_
+Sadly, we want to. But PhD guys (and ladies - ahem) is not the smartest - the most brilliant people in the world. No, you don't need to be the SMARTEST student to do a PhD. Although a portion of intelligence can help your PhD life. We, (at least - I), are those incurably curiousers who seek the _ANSWERs_ for our own _QUESTIONs_
 
 So, back to the story - Dorothy wants to know how to return home (the QUESTION), and at the end she found the ANSWER is her shoes.
 **_Envious_**. Like Dorothy, I wish to have **BRAIN**, **HEART**, and **COURAGE**, Dorothy's 3 best friends, for perseveringly finding the core problem to the edge of human knowledge boundary, and for surviving the failures when trying to push it further from the boundary.
 
 _And that's all my foreword_, the starting point of my version of yellow brick road.
 
-Next. will try to post about what a PhD in IT / informatics / Computer Science is - because we often get those common questions about what we actually _do_ in our PhD.
+Next. will post about what a PhD in IT / Informatics / Computer Science is - since we often get those questions w.r.t what we actually _do_ in our PhD.
 
