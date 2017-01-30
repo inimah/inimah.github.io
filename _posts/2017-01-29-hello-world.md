@@ -31,6 +31,6 @@ Sadly, we want to. But PhD guys (and ladies - ahem) is not the smartest - the mo
 So, back to the story - Dorothy wants to know how to return home (the QUESTION), and at the end she found the ANSWER is her shoes.
 Likewise, in my case at least, I also (in-dire) need of **BRAIN**, **HEART**, and **COURAGE**, Dorothy's best friends, for perseveringly finding the core problem at the edge of human knowledge boundary, and for surviving the failures when trying to push it (the problem found) further from the boundary.
 
-_So_, welcome at the starting point of my version of yellow brick road.
+_And that's all my foreword_, welcome at the starting point of my version of yellow brick road.
 Next. will try to answer some common questions about what a PhD in IT / informatics / Computer Science is.
 
