@@ -1,15 +1,15 @@
 ---
 title: "Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN"
 collection: publications
-permalink: /publication/2018-11-8-paper-title-number-1
-excerpt: 'Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN'
+permalink: https://arxiv.org/pdf/1811.03970.pdf
+#excerpt: 'Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN'
 date: 2018-11-08
-venue: 'NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy, Montréal, Canada'
+#venue: 'NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy, Montréal, Canada'
 paperurl: 'https://arxiv.org/pdf/1811.03970.pdf'
 citation: 'Xiong, Wenting, et al. (2018). &quot;Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN.&quot; <i>NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy</i>.'
 ---
-Layer-wise Relevance Propagation (LRP) and saliency maps have been recently used to explain the predictions of Deep Learning models, specifically in the domain of text classification. Given different attribution-based explanations to highlight relevant words for a predicted class label, experiments based on word deleting perturbation is a common evaluation method. This word removal approach, however, disregards any linguistic dependencies that may exist between words or phrases in a sentence, which could semantically guide a classifier to a particular prediction. In this paper, we present a feature-based evaluation framework for comparing the two attribution methods on customer reviews (public data sets) and Customer Due Diligence (CDD) extracted reports (corporate data set). Instead of removing words based on the relevance score, we investigate perturbations based on embedded features removal from intermediate layers of Convolutional Neural Networks. Our experimental study is carried out on embedded-word, embedded-document, and embedded-ngrams explanations. Using the proposed framework, we provide a visualization tool to assist analysts in reasoning toward the model's final prediction.
+#Layer-wise Relevance Propagation (LRP) and saliency maps have been recently used to explain the predictions of Deep Learning models, specifically in the domain of text classification. Given different attribution-based explanations to highlight relevant words for a predicted class label, experiments based on word deleting perturbation is a common evaluation method. This word removal approach, however, disregards any linguistic dependencies that may exist between words or phrases in a sentence, which could semantically guide a classifier to a particular prediction. In this paper, we present a feature-based evaluation framework for comparing the two attribution methods on customer reviews (public data sets) and Customer Due Diligence (CDD) extracted reports (corporate data set). Instead of removing words based on the relevance score, we investigate perturbations based on embedded features removal from intermediate layers of Convolutional Neural Networks. Our experimental study is carried out on embedded-word, embedded-document, and embedded-ngrams explanations. Using the proposed framework, we provide a visualization tool to assist analysts in reasoning toward the model's final prediction.
 
-[Download paper here](https://arxiv.org/pdf/1811.03970.pdf)
+#[Download paper here](https://arxiv.org/pdf/1811.03970.pdf)
 
-Recommended citation: Your Name, You. (2009). "Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN." <i>Journal 1</i>. 1(1).
+#Recommended citation: Your Name, You. (2009). "Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN." <i>Journal 1</i>. 1(1).
