@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Iftitahu Ni'mah is a PhD student at Eindhoven University of Technology, the Netherlands under a research topic "Regularizing and Evaluating Deep Learning for Controllable and Resource Constrained NLP". She is currently working as a research scientist in an Indonesian research institution (BRIN), while completing her PhD thesis. Her current research interests are centralized on Machine Learning for NLP, and Evaluating and Analyzing NLP Systems.
+Iftitahu Ni'mah is a research scientist at BRIN, Indonesia; and a PhD student at Eindhoven University of Technology, the Netherlands with a research topic "Regularizing and Evaluating Deep Learning for Controllable and Resource Constrained NLP". For her PhD candidature, she is supervised by Prof. Dr. Mykola Pechenizkiy as main promotor, Dr. Vlado Menkovski and Dr. Meng Fang as co-promotors. Her current research interests are centralized on Machine Learning for NLP, and Evaluating and Analyzing NLP Systems.
 
 
 
