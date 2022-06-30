@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Bachelor of Informatics in Department of Informatics, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia, 2008
+* M.Sc. Master of Information Technology in Department of Information Technology, Monash University, Melbourne, Australia, 2013
+* Ph.D in Department of Mathematics and Computer Sciences, Eindhoven University of Technology, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2008-2010: Administrator, Engineer, and Educator
+  * e-Government Project, Otorita Batam and POSDATA South Korea
+  * Duties included: Administrator of main sso portal and groupware (administrative) system; connecting between end-users and main developer of the system; educating end-users of the system.
+  * Supervisor: Otorita Batam and POSDATA South Korea
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 2010 - 2011: Research Assistant
+  * Indonesian Institute of Sciences (LIPI)
+  * Duties included: Conducting applied research
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2014 - 2016: Research Assistant
+  * Indonesian Institute of Sciences (LIPI)
+  * Duties included: Conducting research 
+  * Supervisor: Dr. Rifki Sadikin, Dr. Hilman F. Pardede.
+
+* Fall 2016: Research Intern
+  * CERN, Geneva, Switzerland and Heidelberg University, Germany.
+  * Duties included: Conducting preliminary research on Deep Learning for physics. 
+  * Supervisor: Dr. Rifki Sadikin.
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2012-2013 Australia Award Scholarship (AAS)
+  * Issuer: Department of Foreign Affairs and Trade (DFAT) Australia
+  * for Master Degree Program in Monash University, Melbourne, Australia
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2017-2021 Beasiswa Pendidikan Indonesia (BPI) - LPDP
+  * Issuer: Lembaga Pengelola Dana Pendidikan (LPDP) Indonesia
+  * for Doctoral Program in Eindhoven University of Technology, the Netherlands
+
+
