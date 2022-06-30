@@ -1,0 +1,10 @@
+---
+title: "ProtoInfoMax: Prototypical Networks with Mutual Information Maximization for Out-of-Domain Detection"
+collection: publications
+permalink: /publication/2021-11-01-protoinfomax
+#excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2021-11-01
+#venue: 'Journal 1'
+paperurl: 'https://aclanthology.org/2021.findings-emnlp.138/'
+citation: 'Nimah, I., et al. (2021). &quot;ProtoInfoMax: Prototypical Networks with Mutual Information Maximization for Out-of-Domain Detection.&quot; <i>Findings of the Association for Computational Linguistics: EMNLP 2021</i>. pages 1606–1617, Punta Cana, Dominican Republic. Association for Computational Linguistics.'
+---
