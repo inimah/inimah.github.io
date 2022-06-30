@@ -1,14 +1,10 @@
 ---
 title: "Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN"
 collection: publications
-# permalink: https://arxiv.org/pdf/1811.03970.pdf
+# permalink: /2018-11-8-looking
 # excerpt: 'Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN'
-# date: 2018-11-08
+date: 2018-11-08
 # venue: 'NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy, Montréal, Canada'
 paperurl: 'https://arxiv.org/pdf/1811.03970.pdf'
 citation: 'Xiong, Wenting, et al. (2018). &quot;Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN.&quot; <i>NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy</i>.'
 ---
-
-# [Download paper here](https://arxiv.org/pdf/1811.03970.pdf)
-
-# Recommended citation: Your Name, You. (2009). "Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN." <i>Journal 1</i>. 1(1).
