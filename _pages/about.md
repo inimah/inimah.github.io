@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Iftitahu Ni'mah (Tita) is a research scientist at BRIN, Indonesia; and a PhD student at Eindhoven University of Technology, the Netherlands with a research topic "Regularizing and Evaluating Deep Learning for Controllable and Resource Constrained NLP". For her PhD candidature, she is supervised by Prof. Dr. Mykola Pechenizkiy as main promotor, Dr. Vlado Menkovski and Dr. Meng Fang as co-promotors. Her current research interests are centralized on Machine Learning for NLP, and Evaluating and Analyzing NLP Systems.
+Iftitahu Ni'mah (Tita) is a research scientist at BRIN, Indonesia; and a PhD student at Eindhoven University of Technology, the Netherlands with a research topic "Regularizing and Evaluating Deep Learning for Controllable and Resource Constrained NLP". For her PhD candidature, she is supervised by Prof. Dr. Mykola Pechenizkiy as main promotor, Dr. Vlado Menkovski and Dr. Meng Fang as co-promotors. Her current research interests are centralized on Machine Learning for NLP, and Evaluating and Analyzing NLP Systems. More specifically, I am interested in:
+- Learning, adapting, and generalizing in an open domain setting
+- Learning effectively under low resource constraints
+- On diversifying Natural Language Generation
+- Guiding representations: masking, factorizing, label smoothing
+- Understanding current limitation of data versus model expectation
+- On contradictory evaluation goals
+- Attention Networks and Explanation method for NLP systems
 
 
 
