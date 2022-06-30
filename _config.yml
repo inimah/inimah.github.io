@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Iftitahu Ni'mah"
-  avatar           : "profile.png"
+  avatar           : "photos.png"
   bio              : "Research scientist"
   location         : "Indonesia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #false "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WtqgzVgAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Iftitahu-Nimah"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "IftitahuNimah"
   vine             :
   weibo            :
   xing             :
