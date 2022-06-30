@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Bachelor of Informatics in Department of Informatics, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia, 2008
+* B.Sc. Bachelor of Informatics in Department of Informatics, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia, 2008.
   Research: "Text Detection and Character Recognition Using Fuzzy Image Processing"
-* M.Sc. Master of Information Technology in Department of Information Technology, Monash University, Melbourne, Australia, 2013
+* M.Sc. Master of Information Technology in Department of Information Technology, Monash University, Melbourne, Australia, 2013.
   Research: "Bayesian Networks Classifier for Predicting Long-Term Customer Spending Patterns”
-* Ph.D in Department of Mathematics and Computer Sciences, Eindhoven University of Technology, 2023 (expected)
+* Ph.D in Department of Mathematics and Computer Sciences, Eindhoven University of Technology, 2023 (expected).
   Research: "Regularizing and Evaluating Deep Learning for Controllable and Resource Constrained NLP"
 
 Work experience
