@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "A Research Journal"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Iftitahu Ni'mah"
 description              : &description "Research Scientist at BRIN, Indonesia"
