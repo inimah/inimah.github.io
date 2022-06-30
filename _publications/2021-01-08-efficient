@@ -1,0 +1,10 @@
+---
+title: "Efficient and Effective Training of Sparse Recurrent Neural Networks"
+collection: publications
+permalink: /publication/2021-01-08-efficient
+#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2021-01-08
+#venue: 'Journal 1'
+paperurl: 'https://link.springer.com/article/10.1007/s00521-021-05727-y'
+citation: 'Liu, S., et al. (2021). &quot;Efficient and Effective Training of Sparse Recurrent Neural Networks.&quot; <i>Neural Computing and Applications</i>. 33, 9625–9636.https://doi.org/10.1007/s00521-021-05727-y.'
+---
