@@ -38,7 +38,15 @@ Work experience
   * CERN, Geneva, Switzerland and Heidelberg University, Germany.
   * Duties included: Conducting preliminary research on Deep Learning for Physics. 
   * Supervisor: Dr. Rifki Sadikin.
-  
+
+* 2017 - recent: PhD candidate
+  * Eindhoven University of Technology, Eindhoven, the Netherlands.
+  * Supervisors: Prof. Dr. Mykola Pechenizkiy, Dr. Vlado Menkovski, Dr. Meng Fang.
+
+* 2021 - recent: Research scientist
+  * Center for Data and Information Sciences, BRIN, Bandung, Indonesia.
+
+
 Awards
 ======
 * 2012-2013 Australia Award Scholarship (AAS)
