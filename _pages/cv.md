@@ -49,12 +49,34 @@ Work experience
 
 Awards
 ======
-* 2012-2013 Australia Award Scholarship (AAS)
-  * Issuer: Department of Foreign Affairs and Trade (DFAT) Australia.
-  * for Master Degree Program in Monash University, Melbourne, Australia.
-  
 * 2017-2021 Beasiswa Pendidikan Indonesia (BPI) - LPDP
   * Issuer: Lembaga Pengelola Dana Pendidikan (LPDP) Indonesia.
   * for Doctoral Program in Eindhoven University of Technology, the Netherlands.
+
+* 2012-2013 Australia Award Scholarship (AAS)
+  * Issuer: Department of Foreign Affairs and Trade (DFAT) Australia.
+  * for Master Degree Program in Monash University, Melbourne, Australia.
+
+* 2008 e-Government Fellowship training, Seoul, South Korea
+  * Issuer: Ministry of Communication and Information - Indonesia.
+  * Organizer: POSDATA and Korea Productivity Centre (KPC), South Korea.
+  
+Research Projects
+======
+* 2011-2012: Building weather station monitoring system
+  * Research area: Software Engineering and Data Analysis.
+  * Funding and collaboration: Indonesian Institute of Sciences, BMKG, Ministry of Marine Affairs and Fisheries.
+
+* 2011-2012: Building Decision Support System (DSS) for Minapolitan area
+  * Research area: Software Engineering and Data Analysis.
+  * Funding and collaboration: Indonesian Institute of Sciences, Ministry of Marine Affairs and Fisheries.
+
+* 2011-2012: Building Tide and sea level monitoring system
+  * Research area: Software Engineering and Data Analysis.
+  * Funding and collaboration: Indonesian Institute of Sciences, Ministry of Marine Affairs and Fisheries.
+
+* 2016: Deep Learning for Particle Identification in High Energy Physics
+  * Research area: Machine Learning.
+  * Funding and collaboration: Indonesian Institute of Sciences, Alice TPC CERN Switzerland, Heidelberg University Germany.
 
 
