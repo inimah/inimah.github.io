@@ -63,6 +63,10 @@ Awards
   
 Research Projects
 ======
+* 2016: Deep Learning for Particle Identification in High Energy Physics
+  * Research area: Machine Learning.
+  * Funding and collaboration: Indonesian Institute of Sciences, Alice TPC CERN Switzerland, Heidelberg University Germany.
+  
 * 2011-2012: Building weather station monitoring system
   * Research area: Software Engineering and Data Analysis.
   * Funding and collaboration: Indonesian Institute of Sciences, BMKG, Ministry of Marine Affairs and Fisheries.
@@ -75,8 +79,6 @@ Research Projects
   * Research area: Software Engineering and Data Analysis.
   * Funding and collaboration: Indonesian Institute of Sciences, Ministry of Marine Affairs and Fisheries.
 
-* 2016: Deep Learning for Particle Identification in High Energy Physics
-  * Research area: Machine Learning.
-  * Funding and collaboration: Indonesian Institute of Sciences, Alice TPC CERN Switzerland, Heidelberg University Germany.
+
 
 
