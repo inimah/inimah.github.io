@@ -1,11 +1,11 @@
 ---
-title: "NLG Evaluation Beyond Correlation Analysis: An Empirical Metric Preference Checklist (ACL'23)"
+title: "NLG Evaluation Beyond Correlation Analysis: An Empirical Metric Preference Checklist"
 collection: publications
 permalink: /publication/2023-05-05-nlgeval
 #excerpt: 'This paper is about the number 4. The number 5 is left for future work.'
 date: 2023-05-05
 #venue: 'Journal 1'
-#paperurl: 'https://aclanthology.org/2021.findings-emnlp.138/'
-#citation: 'Nimah, I., et al. (2021). &quot;ProtoInfoMax: Prototypical Networks with Mutual Information Maximization for Out-of-Domain Detection.&quot; <i>Findings of the Association for Computational Linguistics: EMNLP 2021</i>. pages 1606–1617, Punta Cana, Dominican Republic. Association for Computational Linguistics.'
+paperurl: 'https://aclanthology.org/'
+citation: 'Nimah, I., et al. (2021). &quot;NLG Evaluation Beyond Correlation Analysis: An Empirical Metric Preference Checklist.&quot; <i>The 61st Annual Meeting of the Association for Computational Linguistics (ACL’23)</i>. pages xx. Toronto, Canada. Association for Computational Linguistics.'
 #To appear at The 61st Annual Meeting of the Association for Computational Linguistics (ACL’23)
 ---
