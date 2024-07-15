@@ -218,6 +218,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _reviewing
+  - scope:
+      path: ""
+      type: reviewing
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -244,6 +253,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  
 
 # Sass/SCSS
 sass:
