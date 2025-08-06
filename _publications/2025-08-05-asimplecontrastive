@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-08-05-asimplecontrastive
 #excerpt: 'Low-resource fake news detection aims at discerning between true and false claims from low-resource languages with scarce benchmark datasets. In this resource-constrained scenario, fake news data collected from online hoax reporting system is inherently skewed because human fact checkers mainly sample claims that are more likely to be fake or false.'
 date: 2025-08-05
-#venue: 'Journal'
+venue: 'Journal'
 paperurl: 'https://doi.org/10.1007/s00521-025-11467-0'
 citation: 'Ni'mah, I., et al. (2025). &quot;A Simple Contrastive Embedding Framework for Low-Resource Fake News Detection.&quot; <i>Neural Computing and Applications</i>. https://doi.org/10.1007/s00521-025-11467-0.'
 ---
