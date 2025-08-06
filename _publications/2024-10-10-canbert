@@ -2,7 +2,7 @@
 title: "Can BERT Learn Evidence-Aware Representation for Low Resource Fake News Detection?"
 collection: publications
 permalink: /publication/2024-10-10-canbert
-#excerpt: 'This paper is about the number 4. The number 5 is left for future work.'
+#excerpt: 'Evidence-aware fake news detection aims to automatically capture the claim-evidence interaction. In particular, the method aspires to mimic how human fact-checkers verify the veracity of a claim based on a piece of information, facts, or data as evidence that can either support or contradict the claim. However, current evidence-aware approaches, which are mainly constructed of LSTM and Graph Neural Network (GNN), suffer from the lack of high quality data in a low resource scenario of fake news detection. In this study, we want to further investigate the capability of BERT as a backbone architecture for evidence-aware fake news detection task.'
 date: 2024-10-10
 venue: 'Conference'
 paperurl: 'https://doi.org/10.1109/IC3INA64086.2024.10732358'
