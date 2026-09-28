@@ -11,7 +11,7 @@ export const profile = {
   affiliations: [
     {
       text: 'Research Scientist, Center for Data and Information Sciences,',
-      org: 'Badan Riset dan Inovasi Nasional (BRIN)',
+      org: 'BRIN',
       url: 'https://brin.go.id/orei/pusat-riset-sains-data-dan-informasi/page/selamat-datang-4',
     },
     {
@@ -57,6 +57,28 @@ export const interests = [
 export const me = 'Nimah, I.';
 
 export const publications = [
+  {
+    title: 'MATH-IDN: A Multilingual Mathematical Problem Solving Dataset Featuring Local Languages in Indonesia',
+    authors: 'Xiao, X. and Nimah, I. and Wabula, Y. and Pechenizkiy, M. and Fang, M.',
+    venue: 'Findings of the Association for Computational Linguistics: EACL 2026',
+    short: 'EACL',
+    type: 'Conference',
+    year: 2026,
+    date: '2026-03-24',
+    links: [{ label: 'Paper', url: 'https://aclanthology.org/2026.findings-eacl.231/' }],
+  },
+  {
+    title: 'Evaluating Retrieval Augmented Generation (RAG) Chunking Strategy for Question Answering in Indonesian Law of The Sea',
+    authors: 'Nimah, I. and Aini, L. R. and Fajri, R. and Pebiana, S. and Hidayati, N. N. and Wijayanti, R.',
+    venue: '2025 International Conference on Computer, Control, Informatics and its Applications (IC3INA), Jakarta, Indonesia',
+    short: 'IC3INA',
+    type: 'Conference',
+    year: 2025,
+    date: '2025-10-15',
+    abstract:
+      'We study the evaluation of Retrieval-Augmented Generation (RAG) for question and answering (QA) in legal domain, particularly Law No. 17 of 2008 about maritime law and shipping in Indonesia.',
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org/abstract/document/11325153' }],
+  },
   {
     title: 'Explaining Mental Disorder Classification in Dialogues: Turn-Level Analysis and Label Dynamics',
     authors: 'Wijayanti, R. and Nimah, I. and Nugraheni, E. and Heryana, A.',
