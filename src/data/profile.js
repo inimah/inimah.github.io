@@ -225,6 +225,10 @@ export const teaching = [
 
 export const supervising = [
   {
+    title: 'Pengembangan Framework Retrieval Augmented Generation (RAG) untuk Sistem Tanya Jawab Dokumen Hukum Berbasis Skenario',
+    detail: 'Undergraduate project (S1) by Muhamad Arjun Dewana (July, 2026), Universitas Pendidikan Indonesia, Prodi Teknik Komputer, Kampus Cibiru Bandung, Indonesia.',
+  },
+  {
     title: 'Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN',
     detail: 'Workshop publication output, NIPS 2018 Workshop on AI in Financial Services. Student: Xiong, W. Project: Know Your Customer (KYC). Supervisor: Pechenizkiy, M.',
     url: 'https://arxiv.org/abs/1811.03970',
@@ -238,7 +242,7 @@ export const supervising = [
 export const service = [
   { period: '2024–present', text: 'Member of the NLP Research Group, Center for Data and Information Sciences, BRIN' },
   { period: '2021–present', text: 'Member of the Center for Data and Information Sciences, BRIN' },
-  { period: '2018–present', text: 'Administrator of the High Performance Computing (HPC) DAI cluster, TU/e' },
+  { period: '2018–2021', text: 'Administrator of the High Performance Computing (HPC) DAI cluster, TU/e' },
   { period: '2017–2019', text: 'Research investigator, Know Your Customer (KYC) project, DAI cluster, TU/e' },
   { period: '2021', text: 'Student participant and volunteer, EMNLP 2021' },
   { period: '2018', text: 'Student participant, EMNLP 2018' },
@@ -247,13 +251,13 @@ export const service = [
 
 export const education = [
   {
-    period: '2017–present',
+    period: '2026',
     title: 'Ph.D., Mathematics and Computer Science',
     org: 'Eindhoven University of Technology, the Netherlands',
-    detail: '“Regularizing and Evaluating Deep Learning for Controllable and Resource Constrained NLP”',
+    detail: '“Contrastive Learning and Evaluation in Low Resource Scenario of Natural Language Processing”',
   },
   {
-    period: '2013',
+    period: '2014',
     title: 'M.Sc., Master of Information Technology',
     org: 'Monash University, Melbourne, Australia',
     detail: '“Bayesian Networks Classifier for Predicting Long-Term Customer Spending Patterns”',
