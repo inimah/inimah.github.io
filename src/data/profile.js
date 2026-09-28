@@ -354,7 +354,12 @@ export const projects = [
   {
     period: '2026',
     title: 'CALM-ID (Corpus of Adolescent Mental Health – Indonesia Dialogue): Korpus Percakapan Bahasa Indonesia untuk Pelatihan dan Evaluasi Chatbot Kesehatan Mental Remaja',
-    detail: 'Large Language Model. BRIN Indonesia.',
+    detail: 'Large Language Model; Dataset. BRIN Indonesia.',
+  },
+  {
+    period: '2026',
+    title: 'Pengembangan Lanjut Purwarupa Chatbot ’Teta’ (Teman Cerita) yang Sesuai Budaya Indonesia sebagai Media Intervensi Psikologis Sederhana pada Remaja dengan Masalah Kesehatan Jiwa Ringan',
+    detail: 'Large Language Model; Chatbot. BRIN Indonesia.',
   },
   {
     period: '2025',
