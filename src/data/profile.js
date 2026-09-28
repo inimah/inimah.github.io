@@ -276,8 +276,7 @@ export const education = [
     period: '2026',
     title: 'Ph.D., Mathematics and Computer Science',
     org: 'Eindhoven University of Technology, the Netherlands',
-    detail: '“Contrastive Learning and Evaluation in Low Resource Scenario of Natural Language Processing”',
-    supervisors: 'Prof. Dr. Mykola Pechenizkiy, Dr. Vlado Menkovski, Dr. Meng Fang.',
+    detail: '“Contrastive Learning and Evaluation in Low Resource Scenario of Natural Language Processing”; Promotors: Prof. Dr. Mykola Pechenizkiy, Dr. Vlado Menkovski, Dr. Meng Fang',
   },
   {
     period: '2014',
