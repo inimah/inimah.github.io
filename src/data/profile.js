@@ -64,10 +64,7 @@ export const publications = [
     type: 'Journal',
     year: 2025,
     date: '2025-08-05',
-    links: [
-      { label: 'Paper', url: 'https://link.springer.com/article/10.1007/s00521-025-11467-0' },
-      { label: 'DOI', url: 'https://doi.org/10.1007/s00521-025-11467-0' },
-    ],
+    links: [{ label: 'Paper', url: 'https://link.springer.com/article/10.1007/s00521-025-11467-0' }],
   },
   {
     title: 'Can BERT Learn Evidence-Aware Representation for Low Resource Fake News Detection?',
@@ -89,7 +86,7 @@ export const publications = [
     type: 'Conference',
     year: 2023,
     date: '2023-05-05',
-    links: [{ label: 'PDF', url: 'https://aclanthology.org/2023.acl-long.69.pdf' }],
+    links: [{ label: 'Paper', url: 'https://aclanthology.org/2023.acl-long.69.pdf' }],
   },
   {
     title: 'ProtoInfoMax: Prototypical Networks with Mutual Information Maximization for Out-of-Domain Detection',
@@ -109,10 +106,7 @@ export const publications = [
     type: 'Journal',
     year: 2021,
     date: '2021-01-08',
-    links: [
-      { label: 'Paper', url: 'https://link.springer.com/article/10.1007/s00521-021-05727-y' },
-      { label: 'DOI', url: 'https://doi.org/10.1007/s00521-021-05727-y' },
-    ],
+    links: [{ label: 'Paper', url: 'https://link.springer.com/article/10.1007/s00521-021-05727-y' }],
   },
   {
     title: 'Looking Deeper into Deep Learning Model: Attribution-based Explanations of TextCNN',
@@ -122,7 +116,7 @@ export const publications = [
     type: 'Workshop',
     year: 2018,
     date: '2018-11-08',
-    links: [{ label: 'arXiv', url: 'https://arxiv.org/abs/1811.03970' }],
+    links: [{ label: 'Paper', url: 'https://arxiv.org/abs/1811.03970' }],
   },
 ];
 
