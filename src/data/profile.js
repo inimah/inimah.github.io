@@ -352,6 +352,26 @@ export const awards = [
 
 export const projects = [
   {
+    period: '2026',
+    title: 'CALM-ID (Corpus of Adolescent Mental Health – Indonesia Dialogue): Korpus Percakapan Bahasa Indonesia untuk Pelatihan dan Evaluasi Chatbot Kesehatan Mental Remaja',
+    detail: 'Large Language Model. BRIN Indonesia.',
+  },
+  {
+    period: '2025',
+    title: 'Pengembangan Chatbot AI sebagai Sistem Pendukung Keputusan untuk Sinkronisasi Regulasi Keamanan Laut di Indonesia',
+    detail: 'Large Language Model; Retrieval Augmented Generation. BRIN Indonesia.',
+  },
+  {
+    period: '2025',
+    title: 'Pengembangan Model Low-Intensity Psychological Intervention Berupa Behaviour Activation Berbasis Chatbot Dengan Mechine Learning Untuk Masalah Kesehatan Jiwa Pada Remaja',
+    detail: 'Large Language Model. BRIN Indonesia.',
+  },
+  {
+    period: '2024',
+    title: 'Pengembangan Data dan Metode Pengecekan Fakta Berbasis Large Language Models (LLMs)',
+    detail: 'Machine Learning; Fake News Detection. BRIN Indonesia.',
+  },
+  {
     period: '2016',
     title: 'Deep Learning for Particle Identification in High Energy Physics',
     detail: 'Machine Learning. Indonesian Institute of Sciences, ALICE TPC CERN, Heidelberg University.',
