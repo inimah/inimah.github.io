@@ -30,7 +30,7 @@ export const profile = {
 };
 
 export const bio = [
-  "Iftitahu Ni'mah (Tita) is a research scientist at Pusat Riset Sains Data dan Informasi (Natural Language Processing Research Group), BRIN, Indonesia.",
+  "Iftitahu Ni'mah (Tita) is a research scientist at Pusat Riset Sains Data dan Informasi, Natural Language Processing Research Group, BRIN, Indonesia.",
   'Her current research interests centre on (1) Machine Learning for NLP and (2) Evaluating and Analyzing NLP Systems.',
 ];
 
@@ -57,6 +57,28 @@ export const interests = [
 export const me = 'Nimah, I.';
 
 export const publications = [
+  {
+    title: 'Evaluating Indonesian Mental Health Chatbots via Agentic Simulation: When Ethics and Realism Win',
+    authors: 'Nimah, I. and Nugraheni, E. and Wijayanti, R. and Fausiah, F. and Mubasyiroh, R. and Irmansyah and Pechenizkiy, M.',
+    venue: '2026 International Conference on Computer, Control, Informatics and its Applications (IC3INA), Lombok, Mataram, Indonesia',
+    short: 'IC3INA',
+    type: 'Conference',
+    year: 2026,
+    date: '2026-09-03',
+    abstract:
+      'Agentic simulation or AI roleplaying offers a viable approach to scale the costly safety evaluation of AI chatbots. However, simulating conversation between two AI agents primarily involves decision making on how to better frame agents’ roles and how to share sessions between agents during simulation of multi-turn conversation.',
+  },
+  {
+    title: 'Generating Informative Non-Diagnostic Titles for Mental Health Dialogues',
+    authors: 'Wijayanti, R. and Nimah, I. and Nugraheni, E. and Rozie, A. F.',
+    venue: '2026 International Conference on Computer, Control, Informatics and its Applications (IC3INA), Lombok, Mataram, Indonesia',
+    short: 'IC3INA',
+    type: 'Conference',
+    year: 2026,
+    date: '2026-09-03',
+    abstract:
+      'Automatically generated titles help users navigate and retrieve previous counseling sessions. This paper presents an LLM-assisted framework for generating counseling dialogue titles that support both tasks. The framework constructs a silver standard title dataset through LLM generation and multi-judge evaluation, then fine-tunes compact sequence-to-sequence models.',
+  },
   {
     title: 'MATH-IDN: A Multilingual Mathematical Problem Solving Dataset Featuring Local Languages in Indonesia',
     authors: 'Xiao, X. and Nimah, I. and Wabula, Y. and Pechenizkiy, M. and Fang, M.',
