@@ -67,7 +67,9 @@ export const publications = [
     date: '2026-09-03',
     abstract:
       'Agentic simulation or AI roleplaying offers a viable approach to scale the costly safety evaluation of AI chatbots. However, simulating conversation between two AI agents primarily involves decision making on how to better frame agents’ roles and how to share sessions between agents during simulation of multi-turn conversation.',
-    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org' }],
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org' }
+           { label: 'Code', url: 'https://github.com/inimah/agent-simulation-mental-id' },
+           ],
   },
   {
     title: 'Generating Informative Non-Diagnostic Titles for Mental Health Dialogues',
@@ -89,7 +91,9 @@ export const publications = [
     type: 'Conference',
     year: 2026,
     date: '2026-03-24',
-    links: [{ label: 'Paper', url: 'https://aclanthology.org/2026.findings-eacl.231/' }],
+    links: [{ label: 'Paper', url: 'https://aclanthology.org/2026.findings-eacl.231/' },
+           { label: 'Data', url: 'https://data.brin.go.id/dataverse/lokamath-qa' },
+           ],
   },
   {
     title: 'Evaluating Retrieval Augmented Generation (RAG) Chunking Strategy for Question Answering in Indonesian Law of The Sea',
@@ -123,7 +127,9 @@ export const publications = [
     type: 'Journal',
     year: 2025,
     date: '2025-08-05',
-    links: [{ label: 'Paper', url: 'https://link.springer.com/article/10.1007/s00521-025-11467-0' }],
+    links: [{ label: 'Paper', url: 'https://link.springer.com/article/10.1007/s00521-025-11467-0' },
+           { label: 'Code', url: 'https://github.com/inimah/contrast-BERT' },
+           ],
   },
   {
     title: 'Can BERT Learn Evidence-Aware Representation for Low Resource Fake News Detection?',
@@ -145,7 +151,9 @@ export const publications = [
     type: 'Conference',
     year: 2023,
     date: '2023-05-05',
-    links: [{ label: 'Paper', url: 'https://aclanthology.org/2023.acl-long.69.pdf' }],
+    links: [{ label: 'Paper', url: 'https://aclanthology.org/2023.acl-long.69.pdf' },
+           { label: 'Code', url: 'https://github.com/inimah/metric-preference-checklist' },
+           ],
   },
   {
     title: 'ProtoInfoMax: Prototypical Networks with Mutual Information Maximization for Out-of-Domain Detection',
@@ -155,7 +163,9 @@ export const publications = [
     type: 'Conference',
     year: 2021,
     date: '2021-11-01',
-    links: [{ label: 'Paper', url: 'https://aclanthology.org/2021.findings-emnlp.138/' }],
+    links: [{ label: 'Paper', url: 'https://aclanthology.org/2021.findings-emnlp.138/' },
+           { label: 'Code', url: 'https://github.com/inimah/protoinfomax' },
+           ],
   },
   {
     title: 'Efficient and Effective Training of Sparse Recurrent Neural Networks',
