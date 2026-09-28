@@ -255,6 +255,7 @@ export const education = [
     title: 'Ph.D., Mathematics and Computer Science',
     org: 'Eindhoven University of Technology, the Netherlands',
     detail: '“Contrastive Learning and Evaluation in Low Resource Scenario of Natural Language Processing”',
+    supervisors: 'Prof. Dr. Mykola Pechenizkiy, Dr. Vlado Menkovski, Dr. Meng Fang.',
   },
   {
     period: '2014',
@@ -277,10 +278,10 @@ export const experience = [
     org: 'Center for Data and Information Sciences, BRIN, Bandung, Indonesia',
   },
   {
-    period: '2017–present',
-    title: 'PhD Candidate',
+    period: '2026–present',
+    title: 'Research Fellow',
     org: 'Eindhoven University of Technology, the Netherlands',
-    detail: 'Supervisors: Prof. Dr. Mykola Pechenizkiy, Dr. Vlado Menkovski, Dr. Meng Fang.',
+    detail: 'Advisor: Prof. Dr. Mykola Pechenizkiy',
   },
   {
     period: 'Fall 2016',
