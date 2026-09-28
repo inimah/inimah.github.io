@@ -67,7 +67,7 @@ export const publications = [
     date: '2026-09-03',
     abstract:
       'Agentic simulation or AI roleplaying offers a viable approach to scale the costly safety evaluation of AI chatbots. However, simulating conversation between two AI agents primarily involves decision making on how to better frame agents’ roles and how to share sessions between agents during simulation of multi-turn conversation.',
-    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org' }
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org' },
            { label: 'Code', url: 'https://github.com/inimah/agent-simulation-mental-id' },
            ],
   },
