@@ -67,6 +67,7 @@ export const publications = [
     date: '2026-09-03',
     abstract:
       'Agentic simulation or AI roleplaying offers a viable approach to scale the costly safety evaluation of AI chatbots. However, simulating conversation between two AI agents primarily involves decision making on how to better frame agents’ roles and how to share sessions between agents during simulation of multi-turn conversation.',
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org' }],
   },
   {
     title: 'Generating Informative Non-Diagnostic Titles for Mental Health Dialogues',
@@ -78,6 +79,7 @@ export const publications = [
     date: '2026-09-03',
     abstract:
       'Automatically generated titles help users navigate and retrieve previous counseling sessions. This paper presents an LLM-assisted framework for generating counseling dialogue titles that support both tasks. The framework constructs a silver standard title dataset through LLM generation and multi-judge evaluation, then fine-tunes compact sequence-to-sequence models.',
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org' }],
   },
   {
     title: 'MATH-IDN: A Multilingual Mathematical Problem Solving Dataset Featuring Local Languages in Indonesia',
@@ -276,7 +278,7 @@ export const education = [
     period: '2026',
     title: 'Ph.D., Mathematics and Computer Science',
     org: 'Eindhoven University of Technology, the Netherlands',
-    detail: '“Contrastive Learning and Evaluation in Low Resource Scenario of Natural Language Processing”; Promotors: Prof. Dr. Mykola Pechenizkiy, Dr. Vlado Menkovski, Dr. Meng Fang',
+    detail: '“Contrastive Learning and Evaluation in Low Resource Scenario of Natural Language Processing”',
   },
   {
     period: '2014',
