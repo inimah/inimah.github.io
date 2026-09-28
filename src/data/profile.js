@@ -6,22 +6,23 @@ export const profile = {
   nickname: 'Tita',
   role: 'Research Scientist',
   photo: 'images/profile.png',
-  tagline: 'Deep Learning · NLP · Natural Language Generation',
+  tagline: 'AI · NLP · NLG . Evaluation',
   location: 'Bandung, Indonesia',
   affiliations: [
     {
       text: 'Research Scientist, Center for Data and Information Sciences,',
-      org: 'BRIN',
-      url: 'https://www.brin.go.id/',
+      org: 'Badan Riset dan Inovasi Nasional (BRIN)',
+      url: 'https://brin.go.id/orei/pusat-riset-sains-data-dan-informasi/page/selamat-datang-4',
     },
     {
-      text: 'PhD candidate, Data and AI cluster,',
+      text: 'Research Fellow, Data and AI cluster,',
       org: 'Eindhoven University of Technology (TU/e)',
-      url: 'https://www.tue.nl/en/',
+      url: 'https://research.tue.nl/en/persons/iftitahu-nimah/',
     },
   ],
   links: [
     { label: 'Google Scholar', url: 'https://scholar.google.com/citations?user=WtqgzVgAAAAJ&hl=en' },
+    { label: 'OpenReview', url: 'https://openreview.net/profile?id=%7EIftitahu_Ni%27mah1' },
     { label: 'ResearchGate', url: 'https://www.researchgate.net/profile/Iftitahu-Nimah' },
     { label: 'GitHub', url: 'https://github.com/inimah' },
     { label: 'X / Twitter', url: 'https://x.com/IftitahuNimah' },
@@ -29,7 +30,7 @@ export const profile = {
 };
 
 export const bio = [
-  "Iftitahu Ni'mah (Tita) is a research scientist at BRIN, Indonesia. She is also a PhD candidate at Eindhoven University of Technology with the research topic “Regularizing and Evaluating Deep Learning for Controllable and Resource Constrained NLP”, supervised by Prof. Dr. Mykola Pechenizkiy (promotor), and Dr. Vlado Menkovski and Dr. Meng Fang (co-promotors).",
+  "Iftitahu Ni'mah (Tita) is a research scientist at Pusat Riset Sains Data dan Informasi (Natural Language Processing Research Group), BRIN, Indonesia.",
   'Her current research interests centre on (1) Machine Learning for NLP and (2) Evaluating and Analyzing NLP Systems.',
 ];
 
@@ -57,10 +58,22 @@ export const me = 'Nimah, I.';
 
 export const publications = [
   {
+    title: 'Explaining Mental Disorder Classification in Dialogues: Turn-Level Analysis and Label Dynamics',
+    authors: 'Wijayanti, R. and Nimah, I. and Nugraheni, E. and Heryana, A.',
+    venue: '2025 International Conference on Computer, Control, Informatics and its Applications (IC3INA), Jakarta, Indonesia',
+    short: 'IC3INA',
+    type: 'Conference',
+    year: 2025,
+    date: '2025-10-15',
+    abstract:
+      'This study proposes a multi-turn dialogue-based approach to classify mental disorders in Indonesian, utilizing a pretrained BERT model and multi-CLS dialogue representations. Each [CLS] per turn is processed using an attentive pooling mechanism to generate a final prediction. As part of the explainability protocol, we analyze attention distributions, perform perturbation-based faithfulness tests (role-level ablation, turn-level leave-one-out, progressive context insertion), and evaluate label dynamics to trace label transitions between turns.',
+    links: [{ label: 'Paper', url: 'https://doi.org/10.1109/IC3INA68387.2025.11325640' }],
+  },
+  {
     title: 'A Simple Contrastive Embedding Framework for Low-Resource Fake News Detection',
     authors: 'Nimah, I., et al.',
     venue: 'Neural Computing and Applications',
-    short: 'NCA',
+    short: 'NCAA',
     type: 'Journal',
     year: 2025,
     date: '2025-08-05',
@@ -102,7 +115,7 @@ export const publications = [
     title: 'Efficient and Effective Training of Sparse Recurrent Neural Networks',
     authors: 'Liu, S., et al.',
     venue: 'Neural Computing and Applications, 33, 9625–9636',
-    short: 'NCA',
+    short: 'NCAA',
     type: 'Journal',
     year: 2021,
     date: '2021-01-08',
