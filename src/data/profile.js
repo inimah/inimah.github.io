@@ -372,15 +372,21 @@ export const education = [
 
 export const experience = [
   {
+    period: '2026–present',
+    title: 'Research Fellow',
+    org: 'Eindhoven University of Technology, the Netherlands',
+    detail: 'Advisor: Prof. Dr. Mykola Pechenizkiy',
+  },
+  {
     period: '2021–present',
     title: 'Research Scientist',
     org: 'Center for Data and Information Sciences, BRIN, Bandung, Indonesia',
   },
   {
-    period: '2026–present',
-    title: 'Research Fellow',
+    period: '2017–2021',
+    title: 'PhD study',
     org: 'Eindhoven University of Technology, the Netherlands',
-    detail: 'Advisor: Prof. Dr. Mykola Pechenizkiy',
+    detail: 'Advisor: Prof. Dr. Mykola Pechenizkiy; Dr. Vlado Menkovski; Dr. Meng Fang',
   },
   {
     period: 'Fall 2016',
