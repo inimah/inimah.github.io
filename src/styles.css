@@ -1068,35 +1068,55 @@ button {
   text-align: center;
 }
 
+/* Every logo (image or text fallback) sits in the same 64px circle, with no frame. */
 .logo-tile {
   display: grid;
   place-items: center;
-  width: 100%;
+  width: 64px;
   height: 64px;
-  padding: 10px;
-  border-radius: 12px;
-  border: 1px solid var(--line);
-  background: #fff;
-  transition: border-color 0.2s ease, transform 0.2s ease;
+  transition: transform 0.2s ease;
 }
 
 a.logo-tile:hover {
-  border-color: var(--accent);
   transform: translateY(-2px);
   text-decoration: none;
 }
 
 .logo-row img {
-  max-width: 100%;
-  max-height: 44px;
+  width: 64px;
+  height: 64px;
   object-fit: contain;
 }
 
 .logo-fallback {
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: var(--accent-soft);
   font-family: var(--serif);
   font-weight: 600;
-  font-size: 1.15rem;
-  color: #1f6f6b;
+  font-size: 1.1rem;
+  color: var(--accent-strong);
+}
+
+.logo-fallback.is-long {
+  font-size: 0.72rem;
+}
+
+:root[data-theme='dark'] .logo-row img {
+  padding: 4px;
+  border-radius: 50%;
+  background: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .logo-row img {
+    padding: 4px;
+    border-radius: 50%;
+    background: #fff;
+  }
 }
 
 /* ---------- Responsive ---------- */
