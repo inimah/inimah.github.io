@@ -283,6 +283,10 @@ export const talks = [
 ];
 
 export const reviewing = [
+  { venue: 'EACL 2027', tracks: ['Industry Track'] },
+  { venue: 'EACL 2026', tracks: ['Resources and Evaluation', 'Interpretability and Analysis of Models for NLP', 'Student Research Workshop (SRW)', 'Special Theme'] },
+  { venue: 'AACL 2026', tracks: ['Resources and Evaluation'] },
+  { venue: 'EMNLP 2026', tracks: ['Resources and Evaluation', 'NLP Applications', 'Interpretability and Analysis of Models for NLP', 'Efficient/Low-Resource Methods for NLP'] },
   { venue: 'ACL 2024', tracks: ['Resources and Evaluation', 'Semantics: Sentence-level Semantics, Textual Inference and Other areas', 'Theme Track: Open science, open data, and open models for reproducible NLP research'] },
   { venue: 'EMNLP 2024', tracks: ['Resources and Evaluation', 'Theme Track: Efficiency in Model Algorithms, Training, and Inference'] },
   { venue: 'EMNLP 2023', tracks: ['Natural Language Generation', 'Language Modeling and Analysis of Language Models', 'Machine Learning for NLP', 'Interpretability, Interactivity, and Analysis of Models for NLP', 'Industry Track'] },
