@@ -64,7 +64,7 @@ export const openings = {
   topics: [
     {
       title: 'Large Language Models and Retrieval Augmented Generation for Legal Document Processing and Question Answering',
-      text: 'Building and evaluating LLM + RAG pipelines (retrieval, chunking, answer generation) for question answering over Indonesian legal documents.',
+      text: 'Building and evaluating LLM + RAG and GraphRAG pipelines (retrieval, chunking, answer generation) for question answering over Indonesian legal documents.',
       levels: ['S1', 'S2'],
     },
     {
