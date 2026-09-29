@@ -4,7 +4,11 @@ import { external } from '../utils.js';
 
 function Logo({ uni }) {
   if (uni.logo) return <img src={uni.logo} alt="" loading="lazy" />;
-  return <span className="logo-fallback" aria-hidden="true">{uni.short}</span>;
+  return (
+    <span className={`logo-fallback ${uni.short.length > 4 ? 'is-long' : ''}`} aria-hidden="true">
+      {uni.short}
+    </span>
+  );
 }
 
 function GroupPanel() {
