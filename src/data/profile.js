@@ -5,7 +5,7 @@ export const profile = {
   name: "Iftitahu Ni'mah",
   nickname: 'Tita',
   role: 'Research Scientist',
-  photo: 'images/profile.png',
+  photo: 'images/profile2.png',
   tagline: 'AI · NLP · NLG . Evaluation',
   affiliations: [
     {
