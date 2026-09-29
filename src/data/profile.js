@@ -21,6 +21,7 @@ export const profile = {
     },
   ],
   links: [
+    { label: 'Email', url: 'mailto:ifti001@brin.go.id' },
     { label: 'Google Scholar', url: 'https://scholar.google.com/citations?user=WtqgzVgAAAAJ&hl=en' },
     { label: 'OpenReview', url: 'https://openreview.net/profile?id=%7EIftitahu_Ni%27mah1' },
     { label: 'ResearchGate', url: 'https://www.researchgate.net/profile/Iftitahu-Nimah' },
@@ -78,7 +79,7 @@ export const openings = {
       levels: ['S1', 'S2'],
     },
   ],
-  email: '',
+  email: 'ifti001@brin.go.id',
 };
 
 // Research group panel, shown under the announcement.
