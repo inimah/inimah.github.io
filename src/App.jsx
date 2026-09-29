@@ -1,6 +1,7 @@
 import Header from './components/Header.jsx';
 import Hero from './components/Hero.jsx';
 import About from './components/About.jsx';
+import Openings from './components/Openings.jsx';
 import News from './components/News.jsx';
 import Publications from './components/Publications.jsx';
 import Talks from './components/Talks.jsx';
@@ -11,6 +12,7 @@ import Footer from './components/Footer.jsx';
 
 export const sections = [
   { id: 'about', label: 'About' },
+  { id: 'join', label: 'Join' },
   { id: 'publications', label: 'Publications' },
   { id: 'talks', label: 'Talks' },
   { id: 'teaching', label: 'Teaching' },
@@ -26,6 +28,7 @@ export default function App() {
       <main id="main">
         <Hero />
         <About />
+        <Openings />
         <News />
         <Publications />
         <Talks />

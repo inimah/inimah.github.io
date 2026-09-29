@@ -53,6 +53,58 @@ export const interests = [
   },
 ];
 
+// Student recruitment announcement, shown below the biography.
+// Set `open: false` to hide it; `email` adds a "Contact me" button when filled in.
+export const openings = {
+  open: true,
+  title: 'Now accepting students',
+  levels: ['S1 · Undergraduate research project', 'S2 · Graduate (Master) project'],
+  intro:
+    'I am looking for motivated undergraduate (S1) and graduate (S2) students for research projects at the NLP Research Group, BRIN. Projects can be carried out as a final project (skripsi/tesis) or research internship, and are available on the topics below.',
+  topics: [
+    {
+      title: 'Large Language Models and Retrieval Augmented Generation for Legal Document Processing and Question Answering',
+      text: 'Building and evaluating LLM + RAG pipelines (retrieval, chunking, answer generation) for question answering over Indonesian legal documents.',
+      levels: ['S1', 'S2'],
+    },
+    {
+      title: 'Memory Profiling and Safety Guardrails for Adolescent Mental Health Chatbot',
+      text: 'Designing conversational memory and safety guardrails for a culturally appropriate mental health chatbot for Indonesian adolescents.',
+      levels: ['S1', 'S2'],
+    },
+    {
+      title: 'Large Language Models and Text-to-Speech for Disaster Communication in Low Resource Indonesian Local Languages',
+      text: 'Using LLMs and text-to-speech to deliver disaster information in Indonesian local languages with limited data.',
+      levels: ['S1', 'S2'],
+    },
+  ],
+  email: '',
+};
+
+// Research group panel, shown under the announcement.
+// Logos: put an image in public/images/logos/ and set `logo: 'images/logos/<file>'`.
+// Without a logo, a tile with the `short` name is shown instead.
+export const group = {
+  name: 'Natural Language Processing Research Group',
+  org: 'Pusat Riset Sains Data dan Informasi (PRSDI), BRIN',
+  url: 'https://brin.go.id/orei/pusat-riset-sains-data-dan-informasi/page/selamat-datang-4',
+  intro:
+    'The NLP Research Group at the Research Center for Data and Information Sciences, BRIN, works on language technology for Indonesian, including large language models, retrieval augmented generation, mental health chatbots, fact checking, and resources for Indonesian local languages.',
+  graduates: [
+    {
+      name: 'Muhamad Arjun Dewana',
+      level: 'S1',
+      year: '2026',
+      university: 'Universitas Pendidikan Indonesia, Kampus Cibiru',
+      project: 'Pengembangan Framework Retrieval Augmented Generation (RAG) untuk Sistem Tanya Jawab Dokumen Hukum Berbasis Skenario',
+    },
+  ],
+  universities: [
+    { name: 'Universitas Pendidikan Indonesia', short: 'UPI', url: 'https://www.upi.edu/', logo: '' },
+    { name: 'Eindhoven University of Technology', short: 'TU/e', url: 'https://www.tue.nl/en/', logo: '' },
+  ],
+};
+
 // `me` marks the author string to highlight in the author list.
 export const me = 'Nimah, I.';
 
