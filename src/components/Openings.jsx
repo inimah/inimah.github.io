@@ -2,8 +2,9 @@ import Section from './Section.jsx';
 import { openings, group } from '../data/profile.js';
 import { external } from '../utils.js';
 
-function Initials({ text }) {
-  return <span className="logo-fallback" aria-hidden="true">{text}</span>;
+function Logo({ uni }) {
+  if (uni.logo) return <img src={uni.logo} alt="" loading="lazy" />;
+  return <span className="logo-fallback" aria-hidden="true">{uni.short}</span>;
 }
 
 function GroupPanel() {
@@ -47,9 +48,16 @@ function GroupPanel() {
           <ul className="logo-row">
             {group.universities.map((u) => (
               <li key={u.name}>
-                <a href={u.url} {...external} title={u.name} aria-label={u.name}>
-                  {u.logo ? <img src={u.logo} alt="" loading="lazy" /> : <Initials text={u.short} />}
-                </a>
+                {u.url ? (
+                  <a className="logo-tile" href={u.url} {...external} title={u.name} aria-label={u.name}>
+                    <Logo uni={u} />
+                  </a>
+                ) : (
+                  <span className="logo-tile" title={u.name} aria-label={u.name} role="img">
+                    <Logo uni={u} />
+                  </span>
+                )}
+                <span className="logo-name">{u.name}</span>
               </li>
             ))}
           </ul>
