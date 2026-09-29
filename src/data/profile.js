@@ -41,7 +41,7 @@ export const dissertation = {
   institution: 'Eindhoven University of Technology',
   url: 'https://research.tue.nl/en/publications/contrastive-learning-and-evaluation-in-low-resource-scenario-of-n/',
   abstract:
-    'In many real world use cases, Natural Language Processing (NLP) systems are often required to function well under realistic constraints, such as data scarcity, domain shift, skewed distribution, unreliable evaluation, and complex structure. These constraints often expose fundamental limitations of conventional NLP methods that are typically operated under idealized benchmarking – where a perfect scenario is present, such that test-time units match training condition. This dissertation, entitled “Contrastive Learning and Evaluation in Low Resource Scenario of Natural Language Processing”, inquires further representation learning and evaluation approaches, particularly contrastive learning paradigms, to improve the robustness, reliability, and practical usability of NLP systems in such constrained scenarios.',
+    'In a low resource scenario, Natural Language Processing (NLP) systems are often expected to function well under significant limitations, such as data scarcity, domain shift, evaluation reliability, skewed representation, and complex document structure. This thesis advances systems in resource-constrained NLP by investigating data-efficient learning techniques, particularly constrastive learning approaches, and evaluation frameworks that remain trustworthy under scarce supervision. Key contributions are (i) a new regularization method for prototypical learning in out-of-domain detection task; (ii) a new meta-evaluation framework for Natural Language Generation tasks; (iii) a comprehensive training and evaluation framework utilizing contrastive learning for fake news detection in Indonesian language; and (iv) a new evaluation dataset and controlled evaluation for legal-based retrieval augmented generation in Indonesian language.',
 };
 
 export const interests = [
@@ -115,7 +115,7 @@ export const group = {
     { name: 'Universitas Pendidikan Indonesia', short: 'UPI', url: 'https://www.upi.edu/', logo: 'images/logos/upi.png' },
     { name: 'Universitas Handayani Makassar', short: 'Handayani', url: 'https://handayani.ac.id/', logo: 'images/logos/unhan_makassar.png' },
     { name: 'Eindhoven University of Technology', short: 'TU/e', url: 'https://www.tue.nl/en/', logo: 'images/logos/tue.png' },
-    { name: 'Universitas of Liverpool', short: 'Liverpool', url: 'https://www.liverpool.ac.uk/', logo: 'images/logos/liverpool2.png' },
+    { name: 'University of Liverpool', short: 'Liverpool', url: 'https://www.liverpool.ac.uk/', logo: 'images/logos/liverpool2.png' },
   ],
 };
 
