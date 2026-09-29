@@ -101,9 +101,9 @@ export const group = {
     },
   ],
   universities: [
-    { name: 'Institut Teknologi Bandung', short: 'ITB', url: 'https://www.itb.ac.id/', logo: '' },
+    { name: 'Institut Teknologi Bandung', short: 'ITB', url: 'https://www.itb.ac.id/', logo: 'images/logos/itb.png' },
     { name: 'Universitas Indonesia', short: 'UI', url: 'https://www.ui.ac.id/', logo: '' },
-    { name: 'Universitas Pendidikan Indonesia', short: 'UPI', url: 'https://www.upi.edu/', logo: '' },
+    { name: 'Universitas Pendidikan Indonesia', short: 'UPI', url: 'https://www.upi.edu/', logo: 'images/logos/upi.png' },
     { name: 'Universitas Handayani Makassar', short: 'Handayani', url: '', logo: '' },
   ],
 };
