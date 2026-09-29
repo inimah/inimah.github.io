@@ -7,3 +7,6 @@ export function formatMonth(iso) {
 }
 
 export const external = { target: '_blank', rel: 'noopener noreferrer' };
+
+// Open web links in a new tab; mailto: links open the mail app in place.
+export const linkProps = (url) => (url.startsWith('mailto:') ? {} : external);

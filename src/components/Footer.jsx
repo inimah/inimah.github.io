@@ -1,5 +1,5 @@
 import { profile } from '../data/profile.js';
-import { external } from '../utils.js';
+import { linkProps } from '../utils.js';
 
 export default function Footer() {
   return (
@@ -10,7 +10,7 @@ export default function Footer() {
         </p>
         <div className="footer-links">
           {profile.links.map((l) => (
-            <a key={l.url} href={l.url} {...external}>
+            <a key={l.url} href={l.url} {...linkProps(l.url)}>
               {l.label}
             </a>
           ))}

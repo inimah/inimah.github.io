@@ -1,5 +1,5 @@
 import { profile } from '../data/profile.js';
-import { external } from '../utils.js';
+import { external, linkProps } from '../utils.js';
 
 export default function Hero() {
   const [first, ...rest] = profile.name.split(' ');
@@ -23,7 +23,7 @@ export default function Hero() {
         </ul>
         <div className="contact-row">
           {profile.links.map((l) => (
-            <a key={l.url} className="btn" href={l.url} {...external}>
+            <a key={l.url} className="btn" href={l.url} {...linkProps(l.url)}>
               {l.label}
             </a>
           ))}
