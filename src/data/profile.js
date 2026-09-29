@@ -124,6 +124,20 @@ export const me = 'Nimah, I.';
 
 export const publications = [
   {
+    title: 'Adapting GraphRAG for Scenario-based Question Answering in Indonesian Maritime Law',
+    authors: 'Dewana, M. A. and Munawir and Khaerunnisa, Z. and Wijayanti, R. and Nimah, I.',
+    venue: '2026 International Conference on Computer, Control, Informatics and its Applications (IC3INA), Lombok, Mataram, Indonesia',
+    short: 'IC3INA',
+    type: 'Conference',
+    year: 2026,
+    date: '2026-09-03',
+    abstract:
+      'Indonesian maritime and fisheries regulations are dense, overlapping, and hierarchically structured, introducing challenges for developing an effective and efficient Retrieval Augmented Generation system. In this study, we construct scenario-based question answering (QA) pairs based on real-world court decisions retrieved from the Indonesian Supreme Court (\emph{Mahkamah Agung}) website. We then further use the constructed dataset to evaluate an adaptation of open-source Graph Retrieval Augmented Generation (GraphRAG) that indexes regulations in the Indonesian maritime and fisheries domain into a heterogeneous knowledge graph.',
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org' },
+           { label: 'Code', url: 'https://github.com/Jundewana/prompt_ta' },
+           ],
+  },
+  {
     title: 'Evaluating Indonesian Mental Health Chatbots via Agentic Simulation: When Ethics and Realism Win',
     authors: 'Nimah, I. and Nugraheni, E. and Wijayanti, R. and Fausiah, F. and Mubasyiroh, R. and Irmansyah and Pechenizkiy, M.',
     venue: '2026 International Conference on Computer, Control, Informatics and its Applications (IC3INA), Lombok, Mataram, Indonesia',
