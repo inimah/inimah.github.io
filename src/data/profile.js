@@ -104,8 +104,8 @@ export const group = {
     { name: 'Universitas Indonesia', short: 'UI', url: 'https://www.ui.ac.id/', logo: 'images/logos/ui.png' },
     { name: 'Universitas Pendidikan Indonesia', short: 'UPI', url: 'https://www.upi.edu/', logo: 'images/logos/upi.png' },
     { name: 'Universitas Handayani Makassar', short: 'Handayani', url: 'https://handayani.ac.id/', logo: 'images/logos/unhan_makassar.png' },
-    { name: 'Eindhoven University of Technology', short: 'TU/e', url: 'https://www.tue.nl/en/', logo: 'images/logos/tue2.png' },
-    { name: 'Universitas of Liverpool', short: 'Liverpool', url: 'https://www.liverpool.ac.uk/', logo: 'images/logos/liverpool.png' },
+    { name: 'Eindhoven University of Technology', short: 'TU/e', url: 'https://www.tue.nl/en/', logo: 'images/logos/tue.png' },
+    { name: 'Universitas of Liverpool', short: 'Liverpool', url: 'https://www.liverpool.ac.uk/', logo: 'images/logos/liverpool2.png' },
   ],
 };
 
