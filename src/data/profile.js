@@ -7,7 +7,6 @@ export const profile = {
   role: 'Research Scientist',
   photo: 'images/profile.png',
   tagline: 'AI · NLP · NLG . Evaluation',
-  location: 'Bandung, Indonesia',
   affiliations: [
     {
       text: 'Research Scientist, Center for Data and Information Sciences,',
@@ -102,9 +101,9 @@ export const group = {
   ],
   universities: [
     { name: 'Institut Teknologi Bandung', short: 'ITB', url: 'https://www.itb.ac.id/', logo: 'images/logos/itb.png' },
-    { name: 'Universitas Indonesia', short: 'UI', url: 'https://www.ui.ac.id/', logo: '' },
+    { name: 'Universitas Indonesia', short: 'UI', url: 'https://www.ui.ac.id/', logo: 'images/logos/ui.png' },
     { name: 'Universitas Pendidikan Indonesia', short: 'UPI', url: 'https://www.upi.edu/', logo: 'images/logos/upi.png' },
-    { name: 'Universitas Handayani Makassar', short: 'Handayani', url: '', logo: '' },
+    { name: 'Universitas Handayani Makassar', short: 'Handayani', url: 'https://handayani.ac.id/', logo: 'images/logos/unhan_makassar.png' },
   ],
 };
 
