@@ -1,5 +1,6 @@
 import Section from './Section.jsx';
-import { bio, interests } from '../data/profile.js';
+import { bio, interests, dissertation } from '../data/profile.js';
+import { external } from '../utils.js';
 
 export default function About() {
   return (
@@ -9,6 +10,22 @@ export default function About() {
           {bio.map((p) => (
             <p key={p}>{p}</p>
           ))}
+          {dissertation && (
+            <aside className="thesis card" aria-labelledby="thesis-title">
+              <p className="eyebrow">
+                {dissertation.label} · {dissertation.institution}
+              </p>
+              <h3 id="thesis-title">
+                <a href={dissertation.url} {...external}>
+                  {dissertation.title}
+                </a>
+              </h3>
+              <p className="thesis-abstract">{dissertation.abstract}</p>
+              <a className="btn btn-primary" href={dissertation.url} {...external}>
+                Read the dissertation<span className="btn-arrow" aria-hidden="true">↗</span>
+              </a>
+            </aside>
+          )}
         </div>
         <ol className="interest-list" aria-label="Research interests">
           {interests.map((it, i) => (

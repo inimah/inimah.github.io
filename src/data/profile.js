@@ -34,6 +34,16 @@ export const bio = [
   'Her current research interests centre on (1) Machine Learning for NLP and (2) Evaluating and Analyzing NLP Systems.',
 ];
 
+// PhD dissertation highlight, shown inside "Short biography".
+export const dissertation = {
+  label: 'PhD dissertation',
+  title: 'Contrastive Learning and Evaluation in Low Resource Scenario of Natural Language Processing',
+  institution: 'Eindhoven University of Technology',
+  url: 'https://research.tue.nl/en/publications/contrastive-learning-and-evaluation-in-low-resource-scenario-of-n/',
+  abstract:
+    'In many real world use cases, Natural Language Processing (NLP) systems are often required to function well under realistic constraints, such as data scarcity, domain shift, skewed distribution, unreliable evaluation, and complex structure. These constraints often expose fundamental limitations of conventional NLP methods that are typically operated under idealized benchmarking – where a perfect scenario is present, such that test-time units match training condition. This dissertation, entitled “Contrastive Learning and Evaluation in Low Resource Scenario of Natural Language Processing”, inquires further representation learning and evaluation approaches, particularly contrastive learning paradigms, to improve the robustness, reliability, and practical usability of NLP systems in such constrained scenarios.',
+};
+
 export const interests = [
   {
     title: 'Open-domain learning',
