@@ -295,6 +295,8 @@ export const reviewing = [
   {
     venue: 'Indonesian international conferences',
     items: [
+      { label: 'IC3INA 2026', url: 'https://ieeexplore.ieee.org/xpl/conhome/11325113/proceeding' },
+      { label: 'IC3INA 2025', url: 'https://ieeexplore.ieee.org/xpl/conhome/11325113/proceeding' },
       { label: 'IC3INA 2017', url: 'http://situs.opi.lipi.go.id/ic3ina2017/' },
       { label: 'NISS 2022', url: 'https://niss22.medi-ast.org/' },
     ],
@@ -306,7 +308,7 @@ export const editorial = [
     role: 'Section Editor',
     venue: 'Jurnal Elektronika dan Telekomunikasi (JET), national journal, Sinta 2',
     url: 'https://sinta.kemdikbud.go.id/journals/profile/931',
-    year: '2024',
+    year: '2024-2026',
   },
 ];
 
