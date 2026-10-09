@@ -133,7 +133,7 @@ export const publications = [
     date: '2026-09-03',
     abstract:
       'Indonesian maritime and fisheries regulations are dense, overlapping, and hierarchically structured, introducing challenges for developing an effective and efficient Retrieval Augmented Generation system. In this study, we construct scenario-based question answering (QA) pairs based on real-world court decisions retrieved from the Indonesian Supreme Court (\emph{Mahkamah Agung}) website. We then further use the constructed dataset to evaluate an adaptation of open-source Graph Retrieval Augmented Generation (GraphRAG) that indexes regulations in the Indonesian maritime and fisheries domain into a heterogeneous knowledge graph.',
-    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org' },
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org/document/11714890' },
            { label: 'Code', url: 'https://github.com/Jundewana/prompt_ta' },
            ],
   },
@@ -147,7 +147,7 @@ export const publications = [
     date: '2026-09-03',
     abstract:
       'Agentic simulation or AI roleplaying offers a viable approach to scale the costly safety evaluation of AI chatbots. However, simulating conversation between two AI agents primarily involves decision making on how to better frame agents’ roles and how to share sessions between agents during simulation of multi-turn conversation.',
-    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org' },
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org/document/11714762' },
            { label: 'Code', url: 'https://github.com/inimah/agent-simulation-mental-id' },
            ],
   },
